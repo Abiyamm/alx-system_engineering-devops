@@ -1,2 +1,2 @@
-#!/bin/bash
-Export BEST= "School"
+#!/bin/bashe
+export BEST= "School"
